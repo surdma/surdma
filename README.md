@@ -1,9 +1,3 @@
-
-- 👀 I’m a mobile developer with experience in dart programming language and flutter framework, I'm interested in computer vision and AI base solution in mobile technology.
-- 🌱 I’m currently learning Generative AI and also work as a backend engineer using Python programming language.
-
-- Here's a profile bio generated from the provided skills:
-
 🚀 **Passionate Mobile App Developer**
 - 👋 Hi, I’m @surdma
 - 📱 Proficient in Flutter and Dart for crafting high-quality mobile experiences. From concept to deployment, I'm your go-to developer for turning ideas into pixel-perfect mobile apps that users love.
