@@ -19,6 +19,6 @@
 Let's bring your mobile app vision to life. Connect with me today to discuss how I can help achieve your goals.
 
 💞️ **Open to Collaboration:** I am looking to collaborate on software development projects.
-💞️ **Portfolio:** https://fueler.io/surdma
+💪 **Portfolio:** https://fueler.io/surdma
 📫 **Contact Information:** You can reach me at devsurdma@gmail.com or +2349063305132.
 
