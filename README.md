@@ -43,6 +43,7 @@ If you’re looking for a reliable and skilled developer to bring your ideas to 
 ### Portfolio and Contact:
 
 🌟 **Portfolio:** [Fueler](https://fueler.io/surdma)
+🌟 **CV:** [Resume](https://app.enhancv.com/share/ef6f5cb7/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 📫 **Contact Information:**
 - Email: **devsurdma@gmail.com**
