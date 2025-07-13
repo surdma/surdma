@@ -1,63 +1,84 @@
-# Hi there, I'm Surdma 👋
+<h1 align="center">Hey 👋What's Up?</h1>
 
+###
 
-<br/><br/>
+<br clear="both">
 
-## About Me
-I'm Surdma from Nigeria — a full-stack software developer with deep focus on **backend systems**, **Flutter mobile apps**, and **AI-assisted automation tools**. I build products with Django, FastAPI, Flutter, React, LangChain, and OpenAI.
-
-My stack covers:
-- **Flutter & Dart** for cross-platform mobile
-- **FastAPI**, **Django**, **Celery**, **Redis** for backend & async systems
-- **React**, **Next.js**, **TypeScript** for frontend
-- **PostgreSQL**, **PostGIS** for geospatial data
-- **LangChain**, **OpenAI**, **Chroma** for AI-driven workflows
-
-<br/>
-
-## GitHub Stats
-
-<a href="https://github.com/surdma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surdma&layout=compact&theme=tokyonight" />
-</a>
-<a href="https://github.com/surdma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surdma&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-
-<br/><br/>
-
-## Featured Projects
-
-- 🔹 **FOODO AI** – Food delivery platform with real-time driver tracking (Flutter + FastAPI + WebSocket)
-- 🔹 **AI Question Bank** – Converts PDF question banks into JSON using LangChain + OpenCV + Django
-- 🔹 **Fitness App** – Real-time workout tracking mobile app built in Flutter
-
-<br/>
-
-## My Badges
-[![@surdma's Holopin board](https://holopin.io/api/user/board?user=surdma)](https://www.holopin.io/@surdma)
-
-<br/>
-
-## Follow Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/surdma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
-  <a href="mailto:devsurdma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
-  <a href="https://fueler.io/surdma" target="_blank">
-    <img src="https://img.shields.io/badge/Fueler.io-%231877F2.svg?&style=flat-square&logo=fire&logoColor=white&color=071A2C" alt="Fueler">
-  </a>
-  <a href="https://www.fiverr.com/your_username" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-%231877F2.svg?&style=flat-square&logo=fiverr&logoColor=white&color=071A2C" alt="Fiverr">
-  </a>
-  <a href="https://www.upwork.com/freelancers/~your_profile" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
-<br/><br/>
+###
 
-> ⚡ "I build tools and systems that actually solve problems — no buzzwords, just working code."
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surdma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surdma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=surdma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surdma&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=surdma&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surdma/surdma/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surdma/surdma/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/surdma/surdma/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=surdma.surdma&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=surdma.surdma&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=surdma.surdma&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=surdma.surdma&"  />
+</div>
+
+###
