@@ -1,53 +1,78 @@
-# Blockchain, Web3, Mobile, and Backend Development Specialist | Full-Stack Developer
+# Surdma – Full-Stack Developer | Flutter, FastAPI, Django, AI & Scalable Systems
 
-👋 **Hello, I'm @surdma**
+👋 **Hey, I’m Surdma**
 
-I am a professional developer with a passion for leveraging blockchain and Web3 technologies to build innovative, decentralized solutions, while also specializing in backend systems and crafting exceptional mobile applications. My expertise spans modern web technologies, backend development, mobile solutions, and user-centric design, ensuring impactful, scalable applications.
+I’m a full-stack developer with a knack for building **scalable**, **user-focused** applications that solve real-world problems. With 3 years of experience, I craft robust backend APIs, cross-platform mobile apps, and AI-driven solutions using **Flutter**, **FastAPI**, **Django**, **React**, and **AI tools**. My focus? Clean code, modular architecture, and systems that just *work*.
 
-### Expertise:
+---
 
-🚀 **Blockchain and Web3 Development:**
-- Proficient in designing and implementing smart contracts using Solidity.
-- Skilled in building decentralized applications (dApps) on Ethereum and other blockchain networks.
-- Experienced in integrating blockchain solutions with real-world use cases.
+### 🛠️ What I Bring to the Table
 
-📱 **Mobile App Development:**
-- Expert in Flutter and Dart, delivering pixel-perfect, high-performance mobile applications for Android and iOS platforms.
-- Proficient in creating intuitive, responsive designs that enhance user experience.
-- Experienced in integrating APIs and real-time data for dynamic app functionality.
+**Mobile Development**  
+- Build **Flutter** apps for iOS and Android with pixel-perfect UI and smooth performance.  
+- Deliver apps with offline sync, Firebase integration, and responsive designs.
 
-🌐 **Full-Stack Web Development:**
-- Advanced knowledge of TypeScript, React, and Next.js for developing responsive and high-performance web applications.
-- Expertise in combining React with backend technologies to create seamless, scalable applications.
+**Backend Engineering**  
+- Develop **FastAPI** and **Django** APIs for high-performance, real-time systems.  
+- Leverage **PostGIS** for geospatial data, **Celery** for async tasks, and **Redis** for caching.  
+- Create scalable microservices and REST/GraphQL APIs for SaaS and complex platforms.
 
-🛠️ **Backend Development:**
-- Proficient in Django for building robust and secure backend systems.
-- Skilled in RESTful API development and database management.
-- Experienced in integrating backend systems with frontend frameworks like React for full-stack solutions.
+**Full-Stack Web**  
+- Build dynamic web apps with **React**, **Next.js**, and **TypeScript** for seamless UX.  
+- Integrate frontends with backend APIs for end-to-end solutions.  
+- Optimize for performance and accessibility across devices.
 
-🔄 **Modern Development Practices:**
-- Proficient in Agile methodologies, Git for version control, and modern design patterns such as MVVP and Bloc.
-- Focused on writing clean, maintainable, and scalable codebases for long-term project success.
+**AI-Powered Solutions**  
+- Design intelligent apps with **LangChain**, **OpenAI**, and **Groq** for automation and data processing.  
+- Extract and analyze data from PDFs, images, or documents using **OpenCV** and **Chroma**.  
+- Build chatbots, question extractors, and workflows for education and e-commerce.
 
-🎨 **User-Centric Design:**
-- Committed to delivering intuitive and visually appealing interfaces for both web and mobile platforms.
+**DevOps & Practices**  
+- Use **Git**, **Docker**, and **CI/CD** for streamlined development.  
+- Follow Agile with tools like **ClickUp** and **Toggl Track** for project management.  
+- Write clean, testable code with a focus on scalability and maintainability.
 
-### Professional Collaboration:
+---
 
-🤝 I am dedicated to fostering productive collaborations, working closely with clients and teams to understand their unique needs and objectives. By translating complex requirements into effective, high-quality solutions, I ensure impactful outcomes that align with your goals and vision.
+### 🚀 Projects That Make a Difference
 
-### Let’s Build Together:
+**FOODO AI**  
+- **What**: A food delivery platform with real-time driver tracking and restaurant management.  
+- **How**: Built with Flutter, FastAPI, PostgreSQL/PostGIS, WebSockets, and Celery.  
+- **Impact**: Reduced order processing time by 35% with seamless mobile UX.  
 
-If you’re looking for a reliable and skilled developer to bring your ideas to life, I’m ready to help. Whether it’s blockchain innovation, mobile applications, or full-stack web solutions, I deliver results that make a difference.
+**VisionStream**  
+- **What**: A live streaming service with private and public video rooms.  
+- **How**: Powered by Django Channels, aiortc, WebRTC, and Redis.  
+- **Impact**: Supported 500+ concurrent users with 99.9% uptime.  
 
-### Portfolio and Contact:
+**GeoTrack API**  
+- **What**: A vehicle tracking API with driver ratings and fare predictions.  
+- **How**: Developed using Django REST, Google Maps API, and Redis/Celery.  
+- **Impact**: Improved trip efficiency by 25% for 10,000+ monthly users.  
 
-🌟 **Portfolio:** [Fueler](https://fueler.io/surdma)
-🌟 **CV:** [Resume](https://app.enhancv.com/share/ef6f5cb7/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+**AI Question Bank**  
+- **What**: An educational tool extracting questions from medical PDFs.  
+- **How**: Used Django, React, LangChain, OpenAI, and OpenCV for processing.  
+- **Impact**: Cut content creation time by 40% for educators.  
 
-📫 **Contact Information:**
-- Email: **devsurdma@gmail.com**
-- Phone: **+2349063305132**
+---
 
-Let’s connect and create cutting-edge applications that drive success and innovation!
+### 💻 My Approach
 
+- **Clarity Over Complexity**: I write code that’s easy to read, maintain, and scale.  
+- **Problem-First Mindset**: I focus on what the user needs and build systems to deliver it.  
+- **Collaboration**: I work closely with teams and clients to turn ideas into reality, fast.
+
+---
+
+### 🌟 Let’s Build Something
+
+Got a challenging project? Need a reliable developer for mobile apps, backend APIs, or AI solutions? I’m here to deliver clean, scalable tech that works. Let’s make it happen.
+
+- **Portfolio**: [Fueler.io/surdma](https://fueler.io/surdma)  
+- **CV**: [Enhancv Resume](https://app.enhancv.com/share/ef6f5cb7/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)  
+- **Email**: devsurdma@gmail.com  
+- **Phone**: +234 906 330 5132  
+
+> *“Build systems that solve problems, not ones that create them.”* – Surdma
