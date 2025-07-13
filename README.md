@@ -75,16 +75,6 @@ Check out my [pinned repositories](#pinned-repositories) below for more!
 
 ---
 
-## 🏆 Pinned Repositories
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surdma&repo=Difabel&theme=dracula" alt="Difabel" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surdma&repo=smartfit&theme=dracula" alt="SmartFit" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surdma&repo=kinpeak-utme&theme=dracula" alt="Kinpeak UTME" />
-</div>
-
----
-
 ## 📱 Connect with Me
 
 <div align="center">
