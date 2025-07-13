@@ -1,27 +1,5 @@
 # Hi there, I'm Surdma 👋
 
-<div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover placeholder" />
-</div>
-
-<br/>
-
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-        <span><strong>Languages, Tools & Frameworks I Use</strong></span>
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="skills placeholder" />
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 <br/><br/>
 
