@@ -1,78 +1,94 @@
-# Surdma – Full-Stack Developer | Flutter, FastAPI, Django, AI & Scalable Systems
+# Hi there, I'm Oussama 👋
 
-👋 **Hey, I’m Surdma**
+<div align="center">
+  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
+</div>
 
-I’m a full-stack developer with a knack for building **scalable**, **user-focused** applications that solve real-world problems. With 3 years of experience, I craft robust backend APIs, cross-platform mobile apps, and AI-driven solutions using **Flutter**, **FastAPI**, **Django**, **React**, and **AI tools**. My focus? Clean code, modular architecture, and systems that just *work*.
 
----
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+        <span><strong>Programming Languages & Frameworks</strong></span>
+      </td>
+    </tr>
+  </thead>
+  <br /><br />
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
+      </td>
+    </tr>
+  </tbody>
+  
+</table>
+</div>
 
-### 🛠️ What I Bring to the Table
+<br /><br />
 
-**Mobile Development**  
-- Build **Flutter** apps for iOS and Android with pixel-perfect UI and smooth performance.  
-- Deliver apps with offline sync, Firebase integration, and responsive designs.
+## About me
+I am Oussama Bouchikhi from Algeria, I graduated with a Bachelor's degree in computer science. I am a Backend developer and a Cloud enthusiast.  
+My prefered stack is Javascript and Typescript (Nodejs/Nestjs).
+I always want to learn new things.
 
-**Backend Engineering**  
-- Develop **FastAPI** and **Django** APIs for high-performance, real-time systems.  
-- Leverage **PostGIS** for geospatial data, **Celery** for async tasks, and **Redis** for caching.  
-- Create scalable microservices and REST/GraphQL APIs for SaaS and complex platforms.
+<br /><br />
 
-**Full-Stack Web**  
-- Build dynamic web apps with **React**, **Next.js**, and **TypeScript** for seamless UX.  
-- Integrate frontends with backend APIs for end-to-end solutions.  
-- Optimize for performance and accessibility across devices.
+## My Github stats
 
-**AI-Powered Solutions**  
-- Design intelligent apps with **LangChain**, **OpenAI**, and **Groq** for automation and data processing.  
-- Extract and analyze data from PDFs, images, or documents using **OpenCV** and **Chroma**.  
-- Build chatbots, question extractors, and workflows for education and e-commerce.
+<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
+  <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&hide=python,tcl&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&line_height=27&icon_color=4194FD&langs_count=3" /> -->
+</a>
+<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="oussamabouchikhi's github stats"/>
+</a>
 
-**DevOps & Practices**  
-- Use **Git**, **Docker**, and **CI/CD** for streamlined development.  
-- Follow Agile with tools like **ClickUp** and **Toggl Track** for project management.  
-- Write clean, testable code with a focus on scalability and maintainability.
+<p>
+  <b>For more Github info </b>
+  <a href="https://gitprofilee.netlify.app/user?id=oussamabouchikhi">check this</a>
+</p>
 
----
+<br /><br />
 
-### 🚀 Projects That Make a Difference
+## My Badges
+[![@oussamabouchikhi's Holopin board](https://holopin.io/api/user/board?user=oussamabouchikhi)](https://www.holopin.io/@oussamabouchikhi)
 
-**FOODO AI**  
-- **What**: A food delivery platform with real-time driver tracking and restaurant management.  
-- **How**: Built with Flutter, FastAPI, PostgreSQL/PostGIS, WebSockets, and Celery.  
-- **Impact**: Reduced order processing time by 35% with seamless mobile UX.  
+<br /><br />
 
-**VisionStream**  
-- **What**: A live streaming service with private and public video rooms.  
-- **How**: Powered by Django Channels, aiortc, WebRTC, and Redis.  
-- **Impact**: Supported 500+ concurrent users with 99.9% uptime.  
 
-**GeoTrack API**  
-- **What**: A vehicle tracking API with driver ratings and fare predictions.  
-- **How**: Developed using Django REST, Google Maps API, and Redis/Celery.  
-- **Impact**: Improved trip efficiency by 25% for 10,000+ monthly users.  
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ousstheboss)
 
-**AI Question Bank**  
-- **What**: An educational tool extracting questions from medical PDFs.  
-- **How**: Used Django, React, LangChain, OpenAI, and OpenCV for processing.  
-- **Impact**: Cut content creation time by 40% for educators.  
 
----
+<h2><i>Follow me:</i></h2>
+<div  align="center">
 
-### 💻 My Approach
+  <a href="https://www.linkedin.com/in/oussama-bouchikhi-49a0b6193/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/ousstheboss/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/oussama.bouchikhi.98" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
+  </a>
 
-- **Clarity Over Complexity**: I write code that’s easy to read, maintain, and scale.  
-- **Problem-First Mindset**: I focus on what the user needs and build systems to deliver it.  
-- **Collaboration**: I work closely with teams and clients to turn ideas into reality, fast.
+ <a href="https://twitter.com/oussth3boss/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
+  </a>
+   <a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+  <a href="https://www.freelancer.com/u/oussamabouchikhi" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01f42213ee8a3771ac" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
+  </a>
+<a href="https://www.fiverr.com/oussama700" target="_blank">
+    <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
+  </a>
+</div>
 
----
 
-### 🌟 Let’s Build Something
 
-Got a challenging project? Need a reliable developer for mobile apps, backend APIs, or AI solutions? I’m here to deliver clean, scalable tech that works. Let’s make it happen.
-
-- **Portfolio**: [Fueler.io/surdma](https://fueler.io/surdma)  
-- **CV**: [Enhancv Resume](https://app.enhancv.com/share/ef6f5cb7/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)  
-- **Email**: devsurdma@gmail.com  
-- **Phone**: +234 906 330 5132  
-
-> *“Build systems that solve problems, not ones that create them.”* – Surdma
