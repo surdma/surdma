@@ -1,14 +1,33 @@
 # Hey 👋 What's Up?
 
-I'm **surdma**, a passionate developer with a love for building scalable web and mobile applications. I specialize in modern JavaScript frameworks, Python backends, and crafting delightful user experiences. When I'm not coding, you can find me exploring new tech, contributing to open-source, or streaming my coding adventures!
+I'm **surdma**, a passionate full-stack developer dedicated to building scalable web and mobile applications that solve real-world problems. With a focus on modern TypeScript frameworks and Python backends, I thrive on creating intuitive user experiences and robust architectures. Beyond coding, I explore emerging technologies, contribute to open-source projects, and share my journey through live streams and blogs.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&animation=fadeIn" alt="Header Capsule" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=surdma&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🌐 Full-stack developer with expertise in TypeScript, Next.js, and Python.
-- 📱 Enthusiast of cross-platform mobile development with Flutter.
-- 🛠️ Advocate for clean code, testing, and scalable architecture.
-- 🌟 Always learning and experimenting with new tools and frameworks.
+
+```yaml
+name: surdma
+role: Full-Stack Developer
+passions:
+  - Building scalable applications with TypeScript and Python
+  - Cross-platform mobile development using Flutter
+  - Advocating for clean code, automated testing, and maintainable architectures
+learning: Always experimenting with new tools, frameworks, and best practices
+contributions: Active in open-source and community-driven projects
+hobbies:
+  - Exploring tech trends
+  - Streaming coding sessions on Twitch
+  - Writing tech articles on Dev.to
+```
 
 ---
 
@@ -50,13 +69,19 @@ I'm **surdma**, a passionate developer with a love for building scalable web and
 
 ## 🌟 Featured Projects
 
-Here are some projects I'm proud of:
+These are some of my standout projects that demonstrate my skills in full-stack development, user-centric design, and real-time integrations:
 
-- **[Difabel](https://github.com/surdma/Difabel)**: A web application built with Next.js and Tailwind CSS to support accessibility and inclusion for differently-abled individuals. Features a responsive UI and real-time data integration. [Live Demo](https://difabel.vercel.app/)
-- **[SmartFit](https://github.com/surdma/smartfit)**: A fitness tracking mobile app developed with Flutter, integrated with a FastAPI backend for seamless data processing and user experience. [Live Demo](https://smartfit-nine.vercel.app/)
-- **[Kinpeak UTME](https://github.com/surdma/kinpeak-utme)**: A Django-based web platform for UTME preparation, offering interactive quizzes and comprehensive study resources. [Live Demo](https://utme-ebon.vercel.app/)
+- **[Difabel](https://github.com/surdma/Difabel)**: A Next.js and Tailwind CSS-powered web app promoting accessibility and inclusion for differently-abled users. Includes responsive interfaces and real-time data features. [Live Demo](https://difabel.vercel.app/)
+- **[SmartFit](https://github.com/surdma/smartfit)**: A Flutter-based mobile fitness tracker with a FastAPI backend for efficient data handling and personalized user experiences. [Live Demo](https://smartfit-nine.vercel.app/)
+- **[Kinpeak UTME](https://github.com/surdma/kinpeak-utme)**: A Django web platform for UTME exam prep, featuring interactive quizzes and extensive study tools to aid learners. [Live Demo](https://utme-ebon.vercel.app/)
 
-Check out my [pinned repositories](#pinned-repositories) below for more!
+Explore my pinned repositories below for more innovative work!
+
+---
+
+## 📝 Recent Blog Posts
+Check out my latest articles on Dev.to for insights into tech trends, tutorials, and project breakdowns:
+- (Add dynamic feed if possible via GitHub Actions, or manually list 2-3 recent posts here)
 
 ---
 
@@ -73,6 +98,10 @@ Check out my [pinned repositories](#pinned-repositories) below for more!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=surdma&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github.com/surdma/surdma/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 📱 Connect with Me
@@ -86,15 +115,19 @@ Check out my [pinned repositories](#pinned-repositories) below for more!
   <a href="https://instagram.com/surdmaa"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
 </div>
 
-- **LinkedIn**: Connect with me for professional networking and collaboration.
-- **Twitter**: Follow me for tech tweets and updates.
-- **Discord**: Join me to discuss coding, projects, or gaming.
-- **Twitch**: Catch my live coding streams and tutorials.
-- **Dev.to**: Read my tech blogs and tutorials.
-- **Instagram**: See my tech journey and personal updates.
+- **LinkedIn**: For professional networking and collaborations.
+- **Twitter**: Tech updates and quick thoughts.
+- **Discord**: Discussions on code, projects, or gaming.
+- **Twitch**: Live coding and tutorials.
+- **Dev.to**: In-depth blogs and guides.
+- **Instagram**: Personal tech journey.
 
 ---
 
 ## 📫 Get in Touch
-Feel free to reach out for collaborations, open-source contributions, or just to chat about tech!  
-📧 Email: [devsurdma@gmail.com](mailto:devsurdma@gmail.com)
+Open to collaborations, open-source contributions, or tech chats!  
+📧 [devsurdma@gmail.com](mailto:devsurdma@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Capsule" />
+</p>
