@@ -1,49 +1,25 @@
-## Hi, I'm Sodiq Oladejo (Surdma)
+## Sodiq Oladejo (Surdma)
 
-Software engineer in Lagos. I work on backend services, APIs and real-time systems, and I lead engineering on product teams.
+Software engineer in Lagos. I mostly work on backend services, APIs and real-time systems: the parts of a product that have to keep working when a connection drops or a service fails.
 
-Right now I'm **CAE / VP Engineering at [MilliHub](https://github.com/MilliHub-dev)** (remote), working across two products:
+I'm Chief Architecture Officer / VP Engineering at MilliHub, where I work on SabiGo (the platform behind Sabi Ride) and AEKO. I'm also the technical founder of Relvor Limited.
 
-- **SabiGo**, the ride, shared-trip and dispatch services behind [Sabi Ride](https://www.sabiride.net/). I built the core of these in the Sabi Ride team.
-- **AEKO**, a blockchain network. I helped bring a stalled testnet back and have worked across the protocol, social features and network operations.
+### Things I've worked on
 
-I'm also the technical founder of **Relvor**.
+**[AEKO](https://founder.relvor.org/projects/aeko-chain)**. Parts of the test network produced no blocks, so transactions never reached wallets or the explorer. I helped investigate it and restore block production and transaction confirmations, then worked on the native social features, explorer and CLI around it. It's built on Solana-derived tech; I didn't design the consensus. [Explorer](https://scan.aeko.online/)
 
-### Selected work
+**[SabiGo](https://founder.relvor.org/projects/sabi-ride)**. The ride service behind [Sabi Ride](https://www.sabiride.net/). I helped build its services for ride matching, shared and group trips, and dispatch, including location-aware assignment and recovering live updates after interruptions. Source is private.
 
-| Project | What I did | Links |
-| --- | --- | --- |
-| AEKO | Helped restore a stalled testnet; built native blockchain and social features | [Explorer](https://scan.aeko.online/) · [Case study](https://founder.relvor.org/projects/aeko-chain) |
-| SabiGo | Ride, shared-trip and dispatch services for Sabi Ride | [Sabi Ride](https://www.sabiride.net/) · [Case study](https://founder.relvor.org/projects/sabi-ride) |
-| Festacol | Examination workflows for students, teachers and school admins | [Preview](https://festacol.vercel.app/) · [Code](https://github.com/surdma/festacol) |
-| FlutterwaveDjango | Django library for common Flutterwave payment and payout calls | [PyPI](https://pypi.org/project/flutterwavedjango/) · [Code](https://github.com/surdma/FlutterWaveDjango) |
-| Laitstyles | Inventory, orders and payments for a retail product still in development | [Dev site](https://dev.laitstyles.com/) · [Case study](https://founder.relvor.org/projects/laitstyles) |
-| Healthcare Waste Monitoring | Prototype linking ward monitoring, collection alerts and experimental robotics | [Case study](https://founder.relvor.org/projects/healthcare-waste-monitoring) |
+**[Festacol](https://github.com/surdma/festacol)**. School exams where a refresh or a dropped connection shouldn't cost a student their answers. Answers save as they go and an interrupted attempt can be resumed. Still in development. [Preview](https://festacol.vercel.app/)
+
+**[FlutterwaveDjango](https://github.com/surdma/FlutterWaveDjango)**. A Django library that wraps Flutterwave's SDK for card charges, verification, OTP/PIN steps and payouts behind one simpler interface. [PyPI](https://pypi.org/project/flutterwavedjango/)
+
+**[Laitstyles](https://founder.relvor.org/projects/laitstyles)**. Turning a storefront into a store a business can actually run: stock, orders, checkout recovery, refunds and records. In development.
 
 ### Stack
 
-**Languages:** TypeScript, JavaScript, Python, Rust, Dart  
-**Backend:** Django, Flask, FastAPI, NestJS, Axum  
-**Frontend & mobile:** React, Next.js, Flutter, Tailwind CSS  
-**Data:** PostgreSQL, MongoDB, SQLite, Redis, Prisma, SQLAlchemy  
-**APIs & real-time:** REST, GraphQL, WebSockets, SSE  
-**Queues & jobs:** RabbitMQ, Celery, BullMQ, Kafka  
-**Infra:** AWS, Hetzner, Scaleway, Docker, Coolify, Dokploy, Linux  
-**CI & testing:** GitHub Actions, GitLab CI/CD, CircleCI, Pytest, Jest, Vitest, Playwright
+Python, TypeScript, Rust · Django, FastAPI, NestJS, Axum · PostgreSQL, Redis · WebSockets, RabbitMQ, Celery · Next.js, Flutter · Docker, Hetzner, Coolify
 
-### Experience
+### Elsewhere
 
-| Role | Company | When |
-| --- | --- | --- |
-| CAE / VP Engineering | MilliHub (remote) | Current |
-| Full Stack Developer | ADPDigitek, Spain (remote) | 2025 – 2026 |
-| Full Stack Developer, part-time | GlobalAcademies, US (remote), on USMLE Focus | 2024 – 2025 |
-| Backend Developer | Memoapps Limited, India (remote), on Memoneet | 2023 – 2024 |
-| Fullstack Developer | Kinpeak Limited, Ibadan | 2021 – 2023 |
-| Backend Developer Intern | Adroit Solutions, Lagos | 2021 |
-
-B.Tech, Mechatronics Engineering, Federal University of Technology Minna.
-
-### Contact
-
-[Portfolio](https://founder.relvor.org/) · [Résumé](https://founder.relvor.org/resume) · [LinkedIn](https://linkedin.com/in/surdma) · [X @surdma](https://x.com/surdma) · [devsurdma@gmail.com](mailto:devsurdma@gmail.com)
+[Portfolio](https://founder.relvor.org/) · [LinkedIn](https://linkedin.com/in/surdma) · [X](https://x.com/surdma) · [devsurdma@gmail.com](mailto:devsurdma@gmail.com)
